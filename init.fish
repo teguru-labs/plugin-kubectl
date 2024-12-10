@@ -31,6 +31,11 @@ if which kubectl > /dev/null
   abbr -a -g kgd "kubectl get deploy"
   abbr -a -g kgn "kubectl get node"
   abbr -a -g kge "kubectl get event"
+  abbr -a -g kgr "kubectl get role"
+  abbr -a -g kgrb "kubectl get rolebinding"
+  abbr -a -g kgcr "kubectl get clusterrole"
+  abbr -a -g kgcrb "kubectl get clusterrolebinding"
+
   abbr -a -g wkgp "watch kubectl get pod"
 
   abbr -a -g kk "kubectl kustomize"
