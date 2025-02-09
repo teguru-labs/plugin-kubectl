@@ -13,7 +13,7 @@
 ## Install
 
 ```bash
-omf install https://github.com/phe-lab/plugin-kubectl
+omf install https://github.com/teguru-labs/plugin-kubectl
 omf reload
 ```
 
@@ -73,7 +73,7 @@ omf reload
 
 ```bash
 omf remove kubectl
-omf install https://github.com/phe-lab/plugin-kubectl
+omf install https://github.com/teguru-labs/plugin-kubectl
 omf reload
 ```
 
@@ -91,7 +91,7 @@ omf reload
 
 [mit]:            https://opensource.org/licenses/MIT
 [author]:         https://github.com/kimyvgy
-[contributors]:   https://github.com/phe-lab/plugin-kubectl/graphs/contributors
+[contributors]:   https://github.com/teguru-labs/plugin-kubectl/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
